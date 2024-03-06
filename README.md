@@ -4,4 +4,4 @@
 3.[Assignment-2(DFS)](https://github.com/GollaChitraleka/AIML/blob/main/Assignment_2(DFS).ipynb)
 4.[Assignment-2(BFS)](https://github.com/GollaChitraleka/AIML/blob/main/Assignment_2(BFS).ipynb)
 5.[Assignment-3](https://github.com/GollaChitraleka/AIML/blob/main/Assignment_3.ipynb)
-6.[Assignment-4](
+6.[Assignment-4](https://github.com/GollaChitraleka/AIML/blob/main/Assignment_4.ipynb)
