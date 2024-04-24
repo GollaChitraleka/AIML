@@ -10,3 +10,4 @@
 9.[Assignment-7](https://github.com/GollaChitraleka/AIML/blob/main/Assignment_7.ipynb)
 10.[Assignment-8](https://github.com/GollaChitraleka/AIML/blob/main/Assignment_8.ipynb)
 11.[Assignment-9](https://github.com/GollaChitraleka/AIML/blob/main/Assignment_9.ipynb)
+12.[Assignment-10](https://github.com/GollaChitraleka/AIML/blob/main/Assignment_10.ipynb)
